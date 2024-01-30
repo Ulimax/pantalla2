@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "parallel-tft",
-    "project_version":    "d367f24-dirty",
+    "project_version":    "c7bc5d0-dirty",
     "project_path":       "C:/Users/CIRCUITOS/Documents/pantallaLCD/esp-idf-parallel-tft",
     "idf_path":           "C:/Users/CIRCUITOS/esp/esp-idf",
     "build_dir":          "C:/Users/CIRCUITOS/Documents/pantallaLCD/esp-idf-parallel-tft/build",
