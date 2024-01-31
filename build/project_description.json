@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "parallel-tft",
-    "project_version":    "64b69e9-dirty",
+    "project_version":    "4068d29-dirty",
     "project_path":       "/home/mizaid/PNL_LCD/pantalla2",
     "idf_path":           "/home/mizaid/esp/esp-idf",
     "build_dir":          "/home/mizaid/PNL_LCD/pantalla2/build",
