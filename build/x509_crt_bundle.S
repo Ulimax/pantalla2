@@ -1,4 +1,4 @@
-/* * Data converted from C:/Users/CIRCUITOS/Documents/pantallaLCD/esp-idf-parallel-tft/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /home/mizaid/PNL_LCD/pantalla2/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

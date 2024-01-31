@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/CIRCUITOS/Documents/pantallaLCD/esp-idf-parallel-tft
+# Install script for directory: /home/mizaid/PNL_LCD/pantalla2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/parallel-tft")
+  set(CMAKE_INSTALL_PREFIX "/usr/local")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -32,14 +32,9 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "TRUE")
 endif()
 
-# Set default install directory permissions.
-if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Users/CIRCUITOS/.espressif/tools/xtensa-esp32-elf/esp-12.2.0_20230208/xtensa-esp32-elf/bin/xtensa-esp32-elf-objdump.exe")
-endif()
-
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/CIRCUITOS/Documents/pantallaLCD/esp-idf-parallel-tft/build/esp-idf/cmake_install.cmake")
+  include("/home/mizaid/PNL_LCD/pantalla2/build/esp-idf/cmake_install.cmake")
 
 endif()
 
@@ -51,5 +46,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/CIRCUITOS/Documents/pantallaLCD/esp-idf-parallel-tft/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/mizaid/PNL_LCD/pantalla2/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
